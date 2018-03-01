@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Arc-Forell
+Comment=A flat theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Forell
+MetacityTheme=forell-gtk
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
